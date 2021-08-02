@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+🌱 I’m currently learning ...
+
+Python ;-)
+
+
 <!--
 **O1969/O1969** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
