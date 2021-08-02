@@ -2,7 +2,7 @@
 
 🌱 I’m currently learning ...
 
-Python ;-)
+Git and Python ;-)
 
 
 <!--
